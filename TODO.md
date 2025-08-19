@@ -1,0 +1,6 @@
+- [x] generate the scene
+- [x] import the model
+- [x] add camera, lighting, helpers, onresize function
+- [ ] tweak camera, clean up code
+- [ ] test baking procedural material
+- [ ] add other lights to get similar lighting as blender
